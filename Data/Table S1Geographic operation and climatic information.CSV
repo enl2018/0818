@@ -1,0 +1,92 @@
+,Province,City,Lat,Long,Smelter type,Raw material,Annual production,Operation status,Mean annual temperature,Mean annual precipitation
+,,,,,,,,,£¨¡æ),(mm)
+S001,Hubei,Xiangyang,31.68,112.25,rotary kiln,vanadium-titanium magnetite,600,suspended,15.5,835.1
+S002,Hubei,Xianning,29.52,114.04,pushed plate kiln,vanadium-titanium magnetite,2160,suspended,16.8,1577.4
+S003,Shanxi,Shangluo,33.53,109.85,electric?furnace,vanadium-titanium magnetite,1200,suspended,10.8,696.1
+S004,Gansu,Jiuquan,39.52,94.87,rotary kiln,vanadium-titanium magnetite,400,suspended,9.3,84
+S005,Hubei,Xianning,29.36,113.88,electric?furnace,stone?coal,4800,active,16.8,1577.4
+S006,Shandong,Jinan,36.7,117.27,pushed plate kiln,stone?coal,540,suspended,13.8,685
+S007,Jiangsu,Zhenjiang,32.19,119.7,pushed slab kiln,stone?coal,830,suspended,10.1,1222.1
+S008,Sichuan,Panzhihua,26.62,101.78,electric?furnace,vanadium-titanium magnetite,4800,active,20,760
+S009,Henan,Pingdingshan,33.07,112.22,blast furnace,stone?coal,3600,active,15,1000
+S010,Anhui,Chuzhou,29.28,120.39,electric?furnace,vanadium-titanium magnetite,2080,suspended,15.4,1035
+S011,Henan,Anyang,36.07,114.15,pushed plate kiln,vanadium-titanium magnetite,3600,active,13.2,581.1
+S012,Jiangxi,Jiujiang,29.75,116.08,rotary kiln,vanadium-titanium magnetite,3000,suspended,16.5,1450
+S013,Gansu,Linxia,35.93,103.34,rotary kiln,vanadium-titanium magnetite,960,suspended,6.3,537
+S014,Hebei,Chengde,40.95,117.68,rotary kiln,vanadium-titanium magnetite,1800,active,9,515.4
+S015,Henan,Nanyang,33.1,111.5,blast furnace,stone?coal,860,suspended,15.1,703.6
+S016,Henan,Nanyang,33.22,111.03,pushed?slab?kiln,stone?coal,3000,active,15.1,703.6
+S017,Guangxi,Beihai,41.53,109.2,pushed?slab?kiln,vanadium-titanium magnetite,3600,active,22.9,1670
+S018,Henan,Luoyang,34.68,112.37,electric?furnace,stone?coal,3600,suspended,14.8,578.2
+S019,Liaoning,Jinzhou,41.05,120.983,rotary kiln,vanadium-titanium magnetite,12000,active,7.9,567
+S020,Jiangsu,Nanjing,32.08,118.66,pushed slab kiln,stone?coal,640,suspended,15.4,1090.4
+S021,Hebei,Chengde,40.5,117.58,rotary kiln,vanadium-titanium magnetite,9600,active,9,609.1
+S022,Hebei,Chengde,40.85,117.97,rotary kiln,vanadium-titanium magnetite,800,suspended,9,515.4
+S023,Neimenggu,Chifeng,41.88,120.133,blast furnace,vanadium-titanium magnetite,1500,suspended,2,381
+S024,Jiangsu,Taizhou,32.94,120.25,pushed slab kiln,stone?coal,3600,active,14.8,1037.7
+S025,Henan,Zhoukou,33.85,112.92,rotary kiln,stone?coal,1800,suspended,14.5,600
+S026,Hunan,Zhuzhou,27.66,113.46,blast furnace,stone?coal,720,suspended,17,1500
+S027,Henan,Luoyang,34.7,112.43,rotary kiln,vanadium-titanium magnetite,1500,suspended,14.8,578.2
+S028,Liaoning,Chaoyang,39.65,122.933,rotary kiln,stone?coal,3600,active,7.1,515
+S029,Hubei,Ezhou,30.33,114.85,electric?furnace,stone?coal,720,suspended,17,1282.8
+S030,Hunan,Xiangtan,28.25,110.15,pushed?slab?kiln,vanadium-titanium magnetite,1200,suspended,17.5,1425
+S031,Guizhou,Tongren,28.48,109.25,rotary kiln,stone?coal,1286,suspended,16,1200
+S032,Henan,Nanyang,33.15,111.47,blast furnace,stone?coal,1200,suspended,15.1,703.6
+S033,Hunan,Yiyang,38.61,112.34,blast furnace,vanadium-titanium magnetite,960,suspended,16.5,1700
+S034,Anhui,Wuhu,41.68,118.49,blast furnace,stone?coal,1680,Active,15.5,1200
+S035,Shanxi,Xi¡¯an,34.31,109.1,electric?furnace,vanadium-titanium magnetite,1500,suspended,11.8,522.4
+S036,Liaoning,Jinzhou,40.75,120.217,rotary kiln,vanadium-titanium magnetite,2400,active,7.9,567
+S037,Liaoning,Dalian,41.23,121.217,pushed?slab?kiln,stone?coal,1500,active,10,680
+S038,Zhejiang,Jinhua,29.28,120.39,pushed slab kiln,vanadium-titanium magnetite,1200,suspended,16.7,1424
+S039,Hubei,Xianning,29.38,113.88,pushed plate kiln,stone?coal,1800,suspended,16.8,1577.4
+S040,Jilin,Baishan,41.23,120.7,blast furnace,vanadium-titanium magnetite,600,suspended,4.6,883.4
+S041,Hunan,Hengyang,29.51,114.03,rotary kiln,vanadium-titanium magnetite,2300,active,18.2,1510.4
+S042,Henan,Nanyang,32.72,111.8,blast furnace,stone?coal,2400,suspended,15.1,703.6
+S043,Guizhou,Guiyang,32.48,119.18,pushed?slab?kiln,stone?coal,800,active,15.3,1129.5
+S044,Liaoning,Shenyang,41.73,126.733,rotary kiln,stone?coal,3360,suspended,8,650
+S045,Hunan,Yueyang,28.34,111.46,pushed plate kiln,vanadium-titanium magnetite,2000,suspended,17.2,1304.4
+S046,Jiangxi,Xinyu,28.14,114.25,electric furnace,vanadium-titanium magnetite,4800,active,17.7,1595
+S047,Hunan,Xiangxi,38.58,109.47,blast furnace,stone?coal,2400,active,16.7,1438.3
+S048,Shanxi,Shangluo,33.26,110.74,rotary kiln,vanadium-titanium magnetite,3600,suspended,10.8,696.1
+S049,Shanxi,Shangluo,34.11,110.1,rotary kiln,stone?coal,800,suspended,10.8,696.1
+S050,Sichuan,Panzhihua,26.54,101.86,rotary kiln,stone?coal,4800,active,20,760
+S051,Jiangsu,Nantong,32.05,120.99,electric?furnace,stone?coal,2400,active,15.1,1040
+S052,Hunan,Huaihua,28.17,110.22,rotary kiln,stone?coal,1200,suspended,16.4,1350
+S053,Hunan,Huaihua,27.63,112.03,pushed?slab?kiln,stone?coal,650,suspended,16.4,1350
+S054,Liaoning,Jinzhou,41.60002,121.133,blast furnace,vanadium-titanium magnetite,2400,suspended,7.9,567
+S055,Liaoning,Huludao,42.10007,123.5,rotary kiln,stone?coal,3600,suspended,8.4,770
+S056,Hubei,Shiyan,32.88,110.35,rotary kiln,vanadium slag,530,suspended,15.4,800
+S057,Guizhou,Qiandongnan,28.95,108.68,rotary kiln,vanadium-titanium magnetite,4000,active,26,1250
+S058,Hunan,Changsha,27.68,111.88,blast furnace,stone?coal,3600,suspended,17.2,1361.6
+S059,Shanxi,Shangluo,33.35,110.72,electric?furnace,vanadium-titanium magnetite,2400,suspended,10.8,696.1
+S060,Shanxi,Shangluo,29.58,104.43,pushed?slab?kiln,vanadium-titanium magnetite,1300,suspended,16.8,696.1
+S061,Sichuan,Meishan,33.35,110.85,electric?furnace,vanadium-titanium magnetite,2000,suspended,10.8,1153.7
+S062,Hebei,Xingtai,37.07,115.68,electric?furnace,vanadium-titanium magnetite,3000,active,13,517
+S063,Shanxi,Hanzhong,33.06,110.78,pushed?slab?kiln,vanadium-titanium magnetite,1200,suspended,14,700
+S064,Jiangsu,Wuxi,31.83,120.21,pushed slab kiln,vanadium-titanium magnetite,5000,active,16.2,1121.7
+S065,Jiangsu,Huai¡¯an,29.84,120.85,pushed slab kiln,stone?coal,1920,suspended,14.5,906
+S066,Henan,Zhengzhou,34.77,113.67,rotary kiln,vanadium-titanium magnetite,600,suspended,15.6,542.1
+S067,Liaoning,Jinzhou,40.96677,120.68,rotary kiln,vanadium-titanium magnetite,4800,active,7.9,567
+S068,Sichuan,Liangshan,27.45,102.2,electric?furnace,vanadium-titanium magnetite,18000,active,17.7,1049
+S069,Sichuan,Liangshan,27.73,102.18,rotary kiln,stone?coal,3600,active,17.7,1049
+S070,Sichuan,Leshan,27.79,102.23,rotary kiln,stone?coal,2400,suspended,17.2,1500
+S071,Hebei,Handan,37.03,115.63,rotary kiln,vanadium-titanium magnetite,4000,Active,13.5,500
+S072,Jiangxi,Pingxiang,27.63,113.97,rotary kiln,stone?coal,360,suspended,17.5,1600
+S073,Hunan,Huaihua,28.05,112.67,pushed plate kiln,stone?coal,2000,Active,16.4,1350
+S074,Hubei,Xianning,29.51,114.03,rotary kiln,vanadium-titanium magnetite,1020,suspended,16.8,1577.4
+S075,Hubei,Yichang,30.58,111.05,pushed plate kiln,stone?coal,1200,active,16.9,1215.6
+S076,Sichuan,Panzhihua,29.84,102.85,rotary kiln,vanadium-titanium magnetite,4800,suspended,20,760
+S077,Sichuan,Ya¡¯an,29.84,108.73,pushed?slab?kiln,vanadium-titanium magnetite,2400,active,16,1800
+S078,Guangxi,Nanning,22.74,108.5,rotary kiln,stone?coal,1000,suspended,21.6,1304
+S079,Hunan,Xiangxi,28.03,109.76,rotary kiln,stone?coal,1200,active,16.7,1438.3
+S080,Sichuan,Panzhihua,26.52,101.86,rotary kiln,vanadium-titanium magnetite,3600,active,20,760
+S081,Guizhou,Qiandongnan,26.76,109.52,rotary kiln,stone?coal,1000,suspended,26,1250
+S082,Sichuan,Panzhihua,26.62,101.8,rotary kiln,vanadium-titanium magnetite,3600,active,20,760
+S083,Hunan,Huaihua,27.21,109.85,pushed?slab?kiln,vanadium-titanium magnetite,1200,active,16.4,1350
+S084,Shanxi,Hanzhong,32.51,107.91,pushed?slab?kiln,stone?coal,3800,suspended,19,1200
+S085,Jiangxi,Yichun,28.14,114.25,rotary kiln,stone?coal,1200,active,17.2,1680.2
+S086,Liaoning,Jinzhou,41.03347,120.983,rotary kiln,vanadium-titanium magnetite,2000,active,7.9,567
+S087,Henan,Shangqiu,34.4,115.12,pushed?slab?kiln,stone?coal,2990,active,14,711.9
+S088,Hebei,Xingtai,36.57,114.67,electric?furnace,stone?coal,2400,suspended,13,517
+S089,Gansu,Linxia,35.9,103.22,blast furnace,stone?coal,1400,suspended,12.3,537
+S090,Guizhou,Qiandongnan,26.99,108.88,rotary kiln,vanadium-titanium magnetite,4400,suspended,26,1250
