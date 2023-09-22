@@ -1,0 +1,72 @@
+,"Contigs
+ Num",Genome size£¨bp£©,Longest contig£¨bp£©,"N50
+£¨bp£©","Mean contig length
+£¨bp£©",Completeness£¨%£©,Contamination£¨%£©,Strain heterogeneity£¨%£©,Taxonomy
+bin101,373,2911730,52421,11772,7806,84.16,6.93,14.29,d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_SM23-28-2
+bin105,1601,6682559,30370,5332,4174,92.55,8.83,35.71,d_Bacteria;p_Deinococcus-Thermus;c_Deinococci;o_Deinococcales;
+bin11,911,3005219,12894,3607,3299,79.25,7.89,18.18,d_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Rubrobacterales;f_Rubrobacteraceae;g_Rubrobacter;s_Rubrobacter xylanophilus;
+bin114,930,8052229,121439,16090,10799,93.68,5.2,0,d_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Actinomycetales;f_Pseudonocardiaceae;
+bin128,820,3128623,30784,4717,3815,83.24,13.57,6.45,d_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Actinomycetales;f_Pseudonocardiaceae;
+bin129,661,3905801,26079,6822,5909,66.38,0,0,d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;
+bin136,625,2381711,24629,4498,4011,69.34,10.52,18.97,d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Propionibacteriales;f_Nocardioidaceae;g_Nocardioides
+bin155,406,2455239,74271,8043,6047,80.49,10.71,5.88,d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Mycobacteriales
+bin219,157,5065830,185850,53459,32266,98.96,1.71,0,d_Bacteria;p_Actinobacteriota;c_Acidimicrobiia;o_Acidimicrobiales
+bin22,489,2847672,38805,8313,5823,78.03,11.66,13.79,d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Propionibacteriales;f_Nocardioidaceae;g_Nocardioides
+bin23,1680,4590636,11481,2875,2733,70.43,3.11,40,d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Streptosporangiales;f_Streptosporangiaceae;g_UBA9676
+bin230,727,2639665,13516,3969,3631,69.87,12.8,28.57,d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira;s_Candidatus Nitrospira defluvii;
+bin234,387,7744305,201332,48646,20011,94.62,10.67,20.37,d_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Actinomycetales;
+bin262,273,2759180,128643,16128,10107,94.17,3.97,35.29,d_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Actinomycetales;
+bin267,1239,6435600,44285,6585,5194,90.8,3.16,0,d_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Actinomycetales;f_Micromonosporaceae; g_Micromonospora
+bin27,735,4236489,32671,7225,5764,63.48,0,0,d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Burkholderia;s_Burkholderia phymatum;
+bin278,842,3399924,31988,4995,4038,76.18,14.8,20.59,d_Bacteria;p_Chloroflexi;c_Thermomicrobia;o_Sphaerobacterales;f_Sphaerobacteraceae;g_Sphaerobacter;s_Sphaerobacter thermophilus;
+bin286,808,5788310,54688,8730,7164,92.69,2.59,0,d_Bacteria;p_Acidobacteria;c_Acidobacteriia;o_Acidobacteriales;f_Acidobacteriaceae;
+bin295,908,2932732,16112,3560,3230,78.15,13,0,d_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Solirubrobacterales;f_Conexibacteraceae;g_Conexibacter;s_Conexibacter woesei;
+bin297,564,1995545,16869,4147,3538,66.46,2.61,0,d_Bacteria;p_Actinobacteriota;c_Acidimicrobiia;o_Acidimicrobiales;f_Palsa-688
+bin299,576,3501132,25499,7200,6078,66.38,1.72,50,d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Cytophagales;f_Hymenobacteraceae;g_Pontibacter
+bin30,666,4683621,46813,9576,7032,88.61,5.28,0,d_Bacteria;p_Chloroflexota;c_Ktedonobacteria;o_Ktedonobacterales
+bin302,473,4354694,75566,17325,9207,96.41,7.17,32.55,d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Mycobacteriales;f_Mycobacteriaceae;g_Mycobacterium;s_Mycobacterium sinensis_A
+bin304,1114,2670439,9495,2331,2397,62.82,14.97,0,d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;
+bin305,187,4521291,354714,61011,24178,96.17,6.69,0,d_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Actinomycetales;f_Nocardioidaceae;g_Nocardioides;s_Nocardioides sp. JS614;
+bin308,407,3321492,44753,12241,8161,82.82,9.54,6.67,d_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Acidimicrobiales;f_Acidimicrobiaceae;g_Acidimicrobium;s_Acidimicrobium ferrooxidans;
+bin310,244,5053030,125330,42444,20880,98.83,1.01,16.67,d_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Actinomycetales;f_Mycobacteriaceae;g_Mycobacterium;
+bin312,351,2633640,67648,11712,7503,87.5,4.77,10,d_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Solirubrobacterales;f_Conexibacteraceae;g_Conexibacter;s_Conexibacter woesei;
+bin32,745,3577357,34346,6271,4802,79.54,0.85,0,d_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Solirubrobacterales;f_Conexibacteraceae;g_Conexibacter;s_Conexibacter woesei;
+bin325,304,2216952,36441,10168,7293,91.4,3.53,0,d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;
+bin330,379,1725728,23308,5263,4553,71.96,3.64,50,d_Bacteria;p_Chloroflexi;c_Anaerolineae;o_Anaerolineales;f_Anaerolineaceae;g_Anaerolinea;s_Anaerolinea thermophila;
+bin334,245,7536406,194895,54898,30761,95.73,11.54,20,d_Bacteria;p_Acidobacteriota;c_Vicinamibacteria;o_Vicinamibacterales;f_2-12-FULL-66-21
+bin335,1735,6798508,23047,4768,3918,79.74,4.31,5.56,d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Anderseniellaceae;g_PALSA-927
+bin344,297,2832104,59409,15439,9536,95.81,3.04,10,d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Anderseniellaceae;g_PALSA-927
+bin347,224,3408579,109278,28435,15217,94.4,3.8,11.54,d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Croceibacterium
+bin354,398,1789201,18334,5857,4495,63.05,5.78,0,d_Bacteria;p_Actinobacteriota;c_Thermoleophilia;o_Solirubrobacterales;f_Thermoleophilaceae
+bin357,1046,2797134,13614,2757,2674,67.31,14.59,7.69,d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Anderseniellaceae
+bin367,1233,6557798,32537,6759,5319,66.88,8.62,20,d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Paraburkholderia
+bin375,773,6965961,67639,13892,9012,95.63,3.93,0,d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Pseudosphingobacterium
+bin377,359,1960875,24857,7273,5462,64.19,2,20,d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Mycobacteriales;f_Jatrophihabitantaceae;g_Jatrophihabitans
+bin386,215,1934966,50152,14825,9000,91,1.31,50,d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_XJ16;f_Halofilaceae;g_Halofilum
+bin394,953,2657760,17576,2874,2789,64.82,2.97,33.33,d_Bacteria;p_Chloroflexota;c_Ktedonobacteria;o_Ktedonobacterales
+bin398,798,2564938,11597,3531,3214,78.69,4.73,0,d_Bacteria;p_Verrucomicrobiota;c_Verrucomicrobiae;o_Chthoniobacterales;f_UBA10450;g_Palsa-1392
+bin399,661,1865794,11923,3078,2823,70.73,12.71,4.55,d_Bacteria;p_Actinobacteriota;c_UBA4738
+bin40,460,1684213,17651,4178,3661,68.7,4.68,0,d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Mycobacteriales;f_Frankiaceae
+bin400,486,2321549,30043,5807,4777,87.26,2.7,50,d_Bacteria;p_Gemmatimonadota;c_Gemmatimonadetes;o_Gemmatimonadales;f_GWC2-71-9
+bin401,648,2978141,21444,5328,4596,65.28,1.72,0,d_Bacteria;p_Acidobacteria;c_Solibacteres;o_Solibacterales;f_Solibacteraceae;g_Candidatus Solibacter;s_Candidatus Solibacter usitatus;
+bin402,771,3064732,21647,4707,3975,68.43,6.71,46.67,d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Burkholderiales;f_Palsa-1005;g_VBCG01
+bin403,1740,5092525,47244,3076,2927,69.12,14.15,4.17,d_Bacteria;p_Desulfobacterota_B;c_Binatia;o_UBA9968;f_UBA9968;g_DP-20
+bin407,480,3966678,42998,10606,8264,91.61,0.79,0,d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_AKYH767;f_Palsa-965;g_GCA-2737665
+bin41,306,4336424,127932,27319,14171,92.12,12.2,10,d_Bacteria;p_Actinobacteriota;c_Acidimicrobiia;o_Acidimicrobiales
+bin419,1157,3663284,16484,3519,3166,68.42,3.88,0,d_Bacteria;p_Chloroflexota;c_Chloroflexia
+bin422,550,1877305,20334,3680,3413,65.94,0.59,0,d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Mycobacteriales;f_Frankiaceae
+bin428,623,1971248,15180,3451,3164,67.01,3.11,50,d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Lysobacter
+bin43,765,3146301,20724,5061,4113,82.37,8.69,33.33,d_Bacteria;p_Chloroflexota;c_Ellin6529;o_CSP1-4;f_CSP1-4;g_CF-46
+bin431,1374,4234056,17390,3400,3082,68.29,6.69,8.11,d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Steroidobacterales;f_Steroidobacteraceae; g_steroidobacter
+bin432,88,2728312,198475,50079,31004,94.08,0.82,0,d_Bacteria;p_Bacteroidota;c_Rhodothermia;o_Balneolales;f_Balneolaceae;g_SMO-BIN1
+bin438,761,2061553,9527,2829,2709,65.83,14.89,0,d_Bacteria;p_Chloroflexota;c_Ellin6529;o_CSP1-4;f_CSP1-4;g_SPCO01
+bin445,637,2698834,16324,4679,4237,70.61,13.43,44.44,d_Bacteria;p_Bacteroidota;c_Rhodothermia;o_Balneolales;f_Balneolaceae
+bin47,595,4167552,42315,9553,7004,95.29,1.68,50,d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Rhizobiaceae;g_Phyllobacterium
+bin51,257,4349857,86624,29966,16926,93.92,5.98,18.18,d_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Acidimicrobiales;f_Acidimicrobiaceae;g_Acidimicrobium;s_Acidimicrobium ferrooxidans;
+bin54,1033,2311786,26036,5306,4337,74.74,4.56,11.11,d_Bacteria;p_Gemmatimonadota;c_Gemmatimonadetes;o_Gemmatimonadales;f_Gemmatimonadaceae; g_FEN-1250
+bin6,585,4665381,70751,12561,7975,79.91,4.3,18.18,d_Bacteria;p_Gemmatimonadota;c_Gemmatimonadetes;o_Gemmatimonadales;f_Gemmatimonadaceae; g_FEN-1250
+bin66,194,6071438,188737,51522,31296,94.68,4.27,0,d_Bacteria;p_Acidobacteriota;c_Blastocatellia;o_Pyrinomonadales;f_Pyrinomonadaceae;g_QHXN01
+bin7,522,1959850,16203,4320,3755,67.42,0.68,0,d_Bacteria;p_Verrucomicrobiota;c_Verrucomicrobiae;o_Chthoniobacterales;f_UBA10450;g_AV40
+bin70,1268,4166282,19864,3756,3286,76.52,13.85,0,d_Bacteria;p_Gemmatimonadota;c_Gemmatimonadetes;o_Gemmatimonadales;f_Gemmatimonadaceae; g_FEN-1250
+bin81,453,2864953,33042,7981,6324,70.89,7.21,46.15,d_Bacteria;p_Actinobacteriota;c_Thermoleophilia;o_Solirubrobacterales;f_Thermoleophilaceae
+bin96,1150,2888246,8897,2587,2512,70.83,11.97,4.88,d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Burkholderiales;f_UKL13-2
